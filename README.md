@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ariel+Yap%2C+21+years+old;Full-stack+Web+Developer;Cyber+Security+analyst)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-johnarielyap143@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Facebook-Ariel%20Yap%C3%B1as-blue)](https://web.facebook.com/arielyap.fb)
+[![](https://img.shields.io/badge/Gmail-johnarielyap143@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Facebook-Ariel%20Yap-blue)](https://web.facebook.com/arielyap.fb)
 
 
 ### Tools I work upon : 🛠
