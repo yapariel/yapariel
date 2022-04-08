@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>Hi, I'm Ariel Yap</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Future+Ethical+Hacker%2C+21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Future+Ethical+Hacker%2C)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Facebook-Ariel%20Yap-blue)](https://web.facebook.com/arielyap.fb) [![](https://img.shields.io/badge/Twitter-JohnarielY-blue)](https://twitter.com/JohnarielY)
 
