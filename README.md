@@ -12,5 +12,5 @@
 
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yapariel&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yapariel&theme=dracula&color=04ba56&bg_color=202d91" />
 
