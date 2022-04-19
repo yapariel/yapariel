@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=FUTRE+CYBERSECURITY+PROFESSIONAL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=FUTRE+CYBER+SECURITY+PROFESSIONAL)](https://git.io/typing-svg)
 
   
   
