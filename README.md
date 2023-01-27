@@ -1,4 +1,4 @@
-<h1>🧑‍💻 HI, I'M ARIEL YAP</h1>
+<h1>HI, I'M ARIEL YAP</h1>
 I am a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.
 <br>
 
