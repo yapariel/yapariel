@@ -1,8 +1,8 @@
-<h1><img src="https://media4.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="50">Hi there!</h1> 
+<h1><img src="https://media4.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="40"> Hi there!</h1> 
 <p>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
 <br>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> I’m currently learning Web Development.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> I’m currently learning Web Development.
 
 ### How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
