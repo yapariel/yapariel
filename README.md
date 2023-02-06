@@ -1,5 +1,5 @@
  <h1><img src="https://im4.ezgif.com/tmp/ezgif-4-1bcf9ab8da.gif" width="40"> Hi there!</h1> 
-<p>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
+<h5>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</h5>
 <br>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> I’m currently learning Web Development.
