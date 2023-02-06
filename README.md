@@ -1,11 +1,10 @@
- <h1><img src="https://im4.ezgif.com/tmp/ezgif-4-1bcf9ab8da.gif" width="40"> Hi there!</h1> 
+ <h1><img src="https://im4.ezgif.com/tmp/ezgif-4-1bcf9ab8da.gif" width="35"> Hi there!</h1> 
 <p>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
 <br>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I’m currently learning Web Development.
 
-<h5>How to reach me</h5>
-###
+### How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ARIELDEV)
