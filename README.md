@@ -1,4 +1,4 @@
- <h1><img src="https://media0.giphy.com/media/edcqYHlnPKJrC6ZBbA/giphy.gif" width="40"> Hi there!</h1> 
+ <h1><img src="https://media0.giphy.com/media/edcqYHlnPKJrC6ZBbA/giphy.gif" width="50"> Hi there!</h1> 
 <p>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
 <br>
 
