@@ -2,7 +2,7 @@
 <h5>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</h5>
 <br>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> I’m currently learning Web Development.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> <h6>I’m currently learning Web Development.</h6>
 
 ### How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
