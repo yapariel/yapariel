@@ -1,8 +1,8 @@
-<h1>HI, I'M ARIEL YAP</h1>
+<h1>HI, I'M JOHN ARIEL YAP</h1>
 <p>I am a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=FUTURE+WEB+DEVELOPER)](https://git.io/typing-svg)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Web Development.
 
 ### How to reach me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
