@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ARIELDEV)
 <br>
-## Github Stats  
+
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=yapariel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ![](https://komarev.com/ghpvc/?username=your-github-yapariel)
