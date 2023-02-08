@@ -1,4 +1,4 @@
- <h1><img src="https://media1.giphy.com/media/scVPOaTdzsxZi6Hdho/giphy.gif" width="40"> Hi there!</h1> 
+ <h1><img src="https://media1.giphy.com/media/scVPOaTdzsxZi6Hdho/giphy.gif" width="35"> Hi there!</h1> 
 <p>I am John Ariel Yap a passionate tech enthusiast from Philippines. I love exploring the world of technology and discovering new and exciting aspects of it.</p>
 
 - <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I’m currently learning ReactJs.
