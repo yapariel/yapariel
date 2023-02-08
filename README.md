@@ -7,8 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yaparieljohn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ARIELDEV)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:johnarielyap143@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:johnarielyap143@gmail.com)
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=yapariel&show_icons=true&count_private=true&hide_border=true" align="center")
                                        
