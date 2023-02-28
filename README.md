@@ -10,7 +10,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:johnarielyap143@gmail.com)
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=yapariel&show_icons=true&count_private=true&hide_border=true" align="center")</div>
-                                       
-
+                                      
 ![](https://komarev.com/ghpvc/?username=your-github-yapariel)
