@@ -13,8 +13,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <a href="https://github.com/reaver72">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=black&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=black&layout=compact" />
 </a>
                                     
 ### How to reach me
