@@ -1,7 +1,7 @@
  <h1>Hi there! I'm Ariel</h1> 
 <p>Im John Ariel Yap, Passionate about all things in IT and eager to explore every corner of the industry, I am a student of Information Technology who is always on the lookout for new and exciting challenges. With a love for developments, graphics, and anything that brings technology to life.</p>
 
-<!-- - <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I’m currently learning ReactJs. -->
+ - <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="31"> I’m currently learning ReactJs.
 ### Tech Stack
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
