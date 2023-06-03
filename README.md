@@ -11,8 +11,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<a href="https://github.com/reaver72">
+  ![Photoshop](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  
+<a href="https://github.com/yapariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=black&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=black&layout=compact" />
 </a>
