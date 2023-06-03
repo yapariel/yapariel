@@ -17,9 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=black&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=black&layout=compact" />
 </a>
-                                    
-### How to reach me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yaparieljohn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:johnarielyap143@gmail.com)
+                       
