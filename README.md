@@ -1,5 +1,5 @@
  <h1>Hi there! I'm Ariel</h1> 
-<p>I'm an aspiring Web Developer, I've developed a strong interest in the world of web development and design, which led me to explore the fascinating intersecion of aesthetic and functionality. My goal is to continuously expand my skill set while leveraging my expertise in web development and graphic design to build innovative and user-friendly websites.</p>
+<p>I'm an aspiring Web Developer, I've developed a strong interest in the world of web development and design, which led me to explore the fascinating intersection of aesthetic and functionality. My goal is to continuously expand my skill set while leveraging my expertise in web development and graphic design to build innovative and user-friendly websites.</p>
 
 ### Tech Stack
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
