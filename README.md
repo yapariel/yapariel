@@ -11,7 +11,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Photoshop](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,photoshop,figma&theme=dark&perline=8" />
+ <br>
+ <img src="https://skillicons.dev/icons?i=figma,tailwind,redux,express,nodejs,cpp&theme=dark" />
+ 
 <a href="https://github.com/yapariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=black&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=black&layout=compact" />
