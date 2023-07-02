@@ -6,6 +6,6 @@
 
 <a href="https://github.com/yapariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&dark=black&layout=compact" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&dark=black&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
                        
