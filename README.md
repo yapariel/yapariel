@@ -4,8 +4,6 @@
 ### Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,photoshop,figma,vscode&theme=dark&perline=10" />
 
-<a href="https://github.com/yapariel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=dark&show_icons=true" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&dark=black&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</a>
+ ![yapariel's Stats](https://github-readme-stats.vercel.app/api?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![yapariel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
                        
