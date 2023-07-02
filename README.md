@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,photoshop,figma,vscode&theme=dark&perline=10" />
 
 <a href="https://github.com/yapariel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=black&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=black&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&dark=black&layout=compact" />
 </a>
                        
