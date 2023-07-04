@@ -6,4 +6,5 @@
 
 
 ![yapariel's Stats](https://github-readme-stats.vercel.app/api?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![yapariel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yapariel&theme=vue-dark&hide_border=true)
 ![yapariel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
