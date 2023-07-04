@@ -4,7 +4,14 @@
 ### Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,photoshop,figma,vscode&theme=dark&perline=10" />
 
-
-![yapariel's Stats](https://github-readme-stats.vercel.app/api?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![yapariel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yapariel&theme=vue-dark&hide_border=true)
-![yapariel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400" alt="yapariel's Stats">
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yapariel&theme=vue-dark&hide_border=true" width="400" alt="yapariel's Streak">
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400" alt="yapariel's Top Languages">
+    </div>
+</div>
