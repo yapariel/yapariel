@@ -7,4 +7,4 @@
 - 💬 Feel free to discuss with me about <strong>Web Development Projects</strong>.
 
 ### My Current Skillset
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,photoshop,figma,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,photoshop,figma,vscode&theme=dark&perline=12" />
