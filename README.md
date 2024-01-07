@@ -1,9 +1,11 @@
-<h1>HI THERE! I'M ARIEL</h1> 
+<h1><img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=HI!+I'M+ARIEL;A+Web+Developer;" /></h1> 
 <p>I'm an aspiring Web Developer, I've developed a strong interest in the world of web development and design, which led me to explore the fascinating intersection of aesthetic and functionality. My goal is to continuously expand my skill set while leveraging my expertise in web development and graphic design to build innovative and user-friendly websites.</p>
 
-### TECH STACK
+### My Current Skillset
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,photoshop,figma,vscode&theme=dark&perline=10" />
 
-![yapariel's Stats](https://github-readme-stats.vercel.app/api?username=yapariel&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![yapariel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yapariel&theme=dark&hide_border=false)
-![yapariel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yapariel&theme=dark&show_icons=true&hide_border=false&layout=compact)
+### Current Status Quo:
+- 💼 Software Developer
+- 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Web Development Projects</strong>.
+
