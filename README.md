@@ -2,6 +2,6 @@
 <p>I'm a Software Developer, I've developed a strong interest in the world of web development and design, which led me to explore the fascinating intersection of aesthetic and functionality. My goal is to continuously expand my skill set while leveraging my expertise in web development and graphic design to build innovative and user-friendly websites.</p>
 
 ### Current Status Quo:
-- 💼 Software Developer
+- 💼 Open To Work
 - 🔍 I’m looking for connections in <strong>Web Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Web Development Projects</strong>.
